@@ -1,0 +1,4 @@
+package: .
+import:
+- package: github.com/hajimehoshi/go-mp3
+- package: github.com/hajimehoshi/oto
